@@ -1,0 +1,9 @@
+{
+    "name": "ezo-pump-multiplier",
+    "version": "1.0.0",
+    "title": "Pump multiplier",
+    "author": "ezonius",
+    "description": "Multiplies pump speed by a configurable decimal number. Also effects offshore pumps and modded pumps.",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "? valves", "? configurable-valves"]
+}
